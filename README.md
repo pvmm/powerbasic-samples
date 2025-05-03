@@ -1,5 +1,6 @@
 Powerbasic Samples
 ==================
+![a screenshot](.docs/screenshot.png "LMMM.asc")
 
 Testing P1 mode of the V9990 with PowerBasic on the TurboR.
 * lmmm.asc: LMMM operations in P1 name table
