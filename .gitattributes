@@ -1,2 +1,3 @@
 # to change language of repo from Javascript to Python
 *.asc linguist-language=BASIC
+*.ldr linguist-language=BASIC
